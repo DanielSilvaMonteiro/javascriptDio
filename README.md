@@ -1,2 +1,7 @@
-# javascriptDio
-Exercícios do bootcamp DIO-WebOrbi-Javascript
+# Exercicios resolvidos em JS
+## Exercícios do bootcamp DIO-WebOrbi-Javascript
+
+- Colections
+- Map
+- Reduce
+- filter
