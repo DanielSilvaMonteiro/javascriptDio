@@ -6,3 +6,4 @@
 - Reduce
 - filter
 - Events
+- JS assincrono
